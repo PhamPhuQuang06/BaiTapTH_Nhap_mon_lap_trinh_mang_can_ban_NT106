@@ -14,4 +14,4 @@
       7. Bai06
       8. Bai07
       9. Bai08
-* :blue_book:*Lab02:* sao đổi màu ko đc vậy, tôi sai chỗ nào
+* :blue_book:*Lab02:* 
